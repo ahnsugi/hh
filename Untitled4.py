@@ -1,5 +1,7 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # coding: utf-8
+
+#파일 수정 현찬
 
 # ## 약 인공지능 - 입력해준 데이터 안에서 판단하는 인공지능
 # ## 강 인공지능 - 완전히 스스로 사고하는 인공지능
