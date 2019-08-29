@@ -3,7 +3,6 @@
 HH group CEO Hyunchan Ahn
 
 
-
 ## 과제
 
 ## KNN 알고리즘을 사용해서 남자/여자 분류하기 
