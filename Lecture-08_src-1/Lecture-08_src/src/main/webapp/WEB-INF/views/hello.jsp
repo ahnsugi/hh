@@ -11,6 +11,6 @@
 <sec:authorize access="isAuthenticated()">
     <a href="/user/list">회원 리스트 보기</a>
 </sec:authorize>
-
+<h1>안녕하세요.</h1>
 </body>
 </html>

@@ -27,6 +27,7 @@ public class UserController {
         User user = new User();
         model.addAttribute("user", user);
         return "signup";
+
     }
 
     @Transactional
@@ -34,6 +35,7 @@ public class UserController {
     public String signup(@ModelAttribute User user) {
         userService.signup(user);
         return "redirect:/user/list";
+
     }
 
 
